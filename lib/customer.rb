@@ -27,7 +27,7 @@ class Customer
       meals.map do |meal|
         meal.waiter
       end
-    end
+    
   end
 
   def new_meal_20_percent(waiter, total)
